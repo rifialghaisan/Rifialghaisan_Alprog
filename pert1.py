@@ -10,5 +10,4 @@ elif umur == 15:
     print("umur anda masih kecil")
 elif umur == 101:
     print("umur anda sudah tua")
-
-    print("program selesai")
+print("program selesai")
